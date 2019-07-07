@@ -49,7 +49,7 @@
             "fontName": {},
             "fontColor": "#ffffff"
           },
-          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">بیشتر</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-o\">اجزای یک سایت</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-q\">شراکت با شما</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#facebook-comments-block-v\">کامنت</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form2-u\">اپدیت</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-q\">حقوق مادی معنوی</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#form1-n\"><span class=\"mobi-mbri mobi-mbri-user mbr-iconfont mbr-iconfont-btn\"></span>انتقادات&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#contacts1-q\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\"></span>ارتباط با ما</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#content5-p\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>سفارش</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#slider-n\"><span class=\"mbri-bookmark mbr-iconfont mbr-iconfont-btn\"></span>سوالات متداول</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\"></span>صحفه اصلی</a></li>",
+          "items": "<li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\" aria-expanded=\"true\">بیشتر</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#pricing-table1-o\">اجزای یک سایت</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#msg-box4-q\">شراکت با شما</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#form2-u\">اپدیت</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"index.html#contacts1-q\">حقوق مادی معنوی</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\"></a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#form1-n\"><span class=\"mobi-mbri mobi-mbri-user mbr-iconfont mbr-iconfont-btn\"></span>انتقادات&nbsp;</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#contacts1-q\"><span class=\"mbrib-user mbr-iconfont mbr-iconfont-btn\"></span>ارتباط با ما</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#content5-p\"><span class=\"mbri-laptop mbr-iconfont mbr-iconfont-btn\"></span>سفارش</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"index.html#slider-n\"><span class=\"mbri-bookmark mbr-iconfont mbr-iconfont-btn\"></span>سوالات متداول</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html\"><span class=\"mbrib-home mbr-iconfont mbr-iconfont-btn\"></span>صحفه اصلی</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -528,33 +528,6 @@
           ],
           "_name": "form1",
           "_anchor": "form1-n"
-        },
-        {
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "socialFacebook": false,
-            "postsNumber": 5,
-            "socialGoogle": true,
-            "socialDisqus": false,
-            "shortName": "",
-            "bgColorRadio": false,
-            "bgColor": "#fff",
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/comments-bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "innerText": "<div class=\"facebookPlaceholder\" data-numposts=\"\"><h2>FACEBOOK COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/facebook-comments.jpg\"></div>",
-          "innerTextGoogle": "<div class=\"googlePlaceholder\" data-numposts=\"\"><h2>GOOGLE COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@PROJECT_PATH@/assets/images/google-comments.jpg\"></div>",
-          "innerTextDisqus": "<div class=\"disqusPlaceholder\" data-numposts=\"\"><h2>DISQUS COMMENTS WILL BE SHOWN ONLY WHEN YOUR SITE IS ONLINE</h2> <img src=\"@ADDONS_PATH@/facebook-comments/facebook-comments-block/assets/disqus-comments.jpg\"></div>",
-          "alias": "facebook-comments",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "facebook-comments-block",
-          "_anchor": "facebook-comments-block-v"
         },
         {
           "_params": {
