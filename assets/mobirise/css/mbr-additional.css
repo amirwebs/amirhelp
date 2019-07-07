@@ -1,5 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Oswald:400,300,700);
 
+
 #dropdown-menu-2btn-5 .hide-buttons [data-button] {
   display: none !important;
 }
@@ -10,12 +11,12 @@
 }
 #dropdown-menu-2btn-5 .navbar,
 #dropdown-menu-2btn-5 .dropdown-menu {
-  background: #333333;
+  background: #27aae0;
 }
 #dropdown-menu-2btn-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-5 .dropdown-menu a:hover,
 #dropdown-menu-2btn-5 .dropdown-menu a:focus {
-  background: #292929;
+  background: #1e9fd4;
 }
 #dropdown-menu-2btn-5 .navbar-toggler {
   color: #ffffff;
@@ -29,6 +30,18 @@
 }
 #slider-n P {
   color: #faaf40;
+}
+#pricing-table1-o DIV {
+  color: #2969b0;
+}
+#pricing-table1-o SUP {
+  text-align: left;
+}
+#pricing-table1-o .mbr-plan__details {
+  text-align: center;
+}
+#pricing-table1-o .mbr-plan__details P {
+  font-family: 'Oswald', sans-serif;
 }
 #footer1-7 P {
   color: #ffffff;
