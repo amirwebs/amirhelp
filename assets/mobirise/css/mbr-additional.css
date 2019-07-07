@@ -11,12 +11,12 @@
 }
 #dropdown-menu-2btn-5 .navbar,
 #dropdown-menu-2btn-5 .dropdown-menu {
-  background: #27aae0;
+  background: #070910;
 }
 #dropdown-menu-2btn-5 .dropdown-menu .dropdown-toggle[aria-expanded="true"],
 #dropdown-menu-2btn-5 .dropdown-menu a:hover,
 #dropdown-menu-2btn-5 .dropdown-menu a:focus {
-  background: #1e9fd4;
+  background: #010102;
 }
 #dropdown-menu-2btn-5 .navbar-toggler {
   color: #ffffff;
@@ -43,9 +43,8 @@
 #pricing-table1-o .mbr-plan__details P {
   font-family: 'Oswald', sans-serif;
 }
-#footer1-7 P {
+#form2-u .mbr-header__text {
   color: #ffffff;
-  text-align: center;
 }
 #content5-p .mbr-header .mbr-header__text {
   text-align: center;
@@ -57,6 +56,19 @@
 }
 #content5-p .mbr-article {
   color: #faaf40;
+}
+#footer1-7 P {
+  color: #ffffff;
+  text-align: center;
+}
+#msg-box4-q .mbr-header__text {
+  color: #ffffff;
+}
+#msg-box4-q .mbr-header__subtext {
+  color: #ffffff;
+}
+#msg-box4-q .mbr-article {
+  color: #ffffff;
 }
 #contacts1-q P {
   color: #faaf40;
