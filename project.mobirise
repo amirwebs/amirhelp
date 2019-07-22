@@ -19,9 +19,9 @@
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/20190704-034821-0000-128x120.png",
     "noImageResize": "",
-    "siteUrl": "https://amirjafari.ml",
+    "siteUrl": "",
     "google-analytics": "",
-    "robotsText": "User-agent: *\nDisallow: /cgi-bin\n\n",
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
     "robotsSwitcher": "on",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
