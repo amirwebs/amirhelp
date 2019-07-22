@@ -18,11 +18,11 @@
     "versionPublish": "4.10.5",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/20190704-034821-0000-128x120.png",
-    "noImageResize": "",
+    "noImageResize": "true",
     "siteUrl": "",
     "google-analytics": "",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on",
+    "robotsSwitcher": "",
     "sitemapSwitcherAuto": "on",
     "sitemapSwitcher": "on"
   },
